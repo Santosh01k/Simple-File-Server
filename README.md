@@ -26,12 +26,10 @@ To run this project, you need to have:
    ```bash
    git clone https://github.com/santosh01k/Simple-File-Server.git
    cd simple-file-server
-
-### Build and run the server
+2. Build and run the server
   ```bash
   cargo build
   cargo run
-
 ```
 ### Contributing
 
