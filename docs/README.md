@@ -2,6 +2,7 @@
 
 This folder will contain documentation for the Simple File Server project.
 
+```sh
 simple-file-server/
 ├── examples/           # Example files for testing
 │   └── hello.txt
@@ -12,4 +13,4 @@ simple-file-server/
 ├── Cargo.toml          # Rust dependencies and project metadata
 ├── README.md           # Project documentation
 └── LICENSE             # Project license
-
+```
