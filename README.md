@@ -28,11 +28,11 @@ To run this project, you need to have:
    cd simple-file-server
 
 ### Build and run the server
-  ```sh
-cargo build
-cargo run
-  ```
+  ```bash
+  cargo build
+  cargo run
 
+```
 ### Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you find a bug or have a suggestion.
