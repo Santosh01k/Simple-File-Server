@@ -24,15 +24,20 @@ To run this project, you need to have:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nishant01k/Simple-File-Server.git
+   git clone https://github.com/santosh01k/Simple-File-Server.git
    cd simple-file-server
 
 ### Build and run the server
   ```sh
-  cargo build
-  cargo run
+cargo build
+cargo run
   ```
 
 ### Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you find a bug or have a suggestion.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
